@@ -1,6 +1,6 @@
 
 pagination declered file name  is paginations.py
-suggection to apply url
+suggection to use url
 
 http://127.0.0.1:8000/student/?p=2&records=3
 
